@@ -1,0 +1,6 @@
+[package]
+name = "passo_01_sequencias_basicas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
