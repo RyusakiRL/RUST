@@ -19,7 +19,7 @@ use std::io;
             
                 let final_salary: f64 = dayi*houri*SALARY_PER_HOUR;
 
-        println!("Your salary is {}", final_salary);
+        println!("Your salary is U${:.2}", final_salary);
 
 
     }
