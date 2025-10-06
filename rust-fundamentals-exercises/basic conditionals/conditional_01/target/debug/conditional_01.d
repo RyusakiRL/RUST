@@ -1,0 +1,1 @@
+C:\Users\Caio\hello_rust\rust-fundamentals-exercises\basic\ conditionals\conditional_01\target\debug\conditional_01.exe: C:\Users\Caio\hello_rust\rust-fundamentals-exercises\basic\ conditionals\conditional_01\src\main.rs
