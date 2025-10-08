@@ -1,0 +1,1 @@
+C:\Users\Caio\hello_rust\rust-fundamentals-exercises\Compound_conditional\compound_conditional_09\target\debug\compound_conditional_09.exe: C:\Users\Caio\hello_rust\rust-fundamentals-exercises\Compound_conditional\compound_conditional_09\src\main.rs
