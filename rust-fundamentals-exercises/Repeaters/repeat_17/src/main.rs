@@ -9,12 +9,12 @@ use std::io;
         let mut overhundred: f64 = 0.0;
 
     while limit<7 {
-            println!("--Fale a sua altura--");
+            println!("--Height--");
             let mut height_str = String::new();
             io::stdin().read_line(&mut height_str).expect("msg");
                 let height: f64 = height_str.trim().parse().expect("msg");
 
-            println!("--Fale o seu peso--");
+            println!("--Weight--");
             let mut weight_str = String::new();
             io::stdin().read_line(&mut weight_str).expect("msg");
                 let weight: f64 = weight_str.trim().parse().expect("msg");
@@ -34,8 +34,8 @@ use std::io;
                 overhundred = overhundred + 1.0;
             }
     }
-        println!("Média de altura: [{:.2}]", somatorie_height/7.0);
-        println!("Quantidade de pessoas com peso acima de 90: [{}]", over_90);
-        println!("Quantidade de pessoas com peso menor que 50 kg e altura menor que 1.60m: [{}]", weightfifthheightonesix);
-        println!("Quantidade de pessoas com peso maior que 100 kg e altura maior que 1.90m: [{}]", overhundred );
+        println!("Average of height: [{:.2}]", somatorie_height/7.0);
+        println!("Quantity of people with weight over 90 kg: [{}]", over_90);
+        println!("Number of people weighing less than 50 kg and less than 1.60 m tall: [{}]", weightfifthheightonesix);
+        println!("Number of people weighing more than 100 kg and taller than 1.90 m: [{}]", overhundred );
     }
