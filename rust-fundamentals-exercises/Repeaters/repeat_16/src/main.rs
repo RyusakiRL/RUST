@@ -42,4 +42,5 @@ use std::io;
     println!("Average age of group: [{}]", somatorie/5.0);
     println!("Average age of men: [{}]", somatiore_man/quantity_man);
     println!("Woman over twenty: [{}]", over_twenty)
+
 }

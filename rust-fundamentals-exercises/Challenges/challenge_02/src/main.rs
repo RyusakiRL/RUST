@@ -23,6 +23,7 @@ use std::io;
                     let some_b_c = b+c;
                     let some_a_c = a+c;
                     let some_a_b = a+b;
+        
         if a<some_b_c && b<some_a_c && c<some_a_b{
             println!("The triangle exist");
         } else {

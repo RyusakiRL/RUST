@@ -35,8 +35,8 @@ fn main () {
     }
 
         println!("---Results---");
-        println!("Pessoas maiores de idade são: [{}]", eighteen);
-        println!("Pessoas menores de cinco anos: [{}]", minusfives);
-        println!("Pessoa mais velha: [{}]", maior);
-        println!("Média de idade: [{}]", somatorie/10.0 );
+        println!("People of legal age: [{}]", eighteen);
+        println!("People under five years of age: [{}]", minusfives);
+        println!("Older person: [{}]", maior);
+        println!("Average age: [{}]", somatorie/10.0 );
 }

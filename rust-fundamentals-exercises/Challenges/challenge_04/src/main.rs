@@ -5,7 +5,7 @@ use std::io;
 fn main () {
 
        println!("Choose between rock, paper, or scissors");
-       let mut po = String::new();
+       let mut po: String = String::new();
        io::stdin().read_line(&mut po).expect("Insert a valid value");
        
         let poke: String = po.trim().to_lowercase().parse().expect("msg");
@@ -19,7 +19,7 @@ fn main () {
         3 => "Scissor".to_string(),
         _ => "Error: Inespered value".to_string(),
     };
-   
+
         if poke == "rock" && x==1 {
             println!("The machine choose {}, draw", joken);
         } else if poke == "rock" && x==2 {
@@ -28,11 +28,11 @@ fn main () {
             println!("The machine choose {}, you win", joken);
         }
 
-        if poke == "paper" && x==1{
+        if poke == "paper"  && x==1{
             println!("The machine choose {}, you win", joken);
-        } else if poke == "paper" && x==2 {
+        } else if poke == "paper" || poke == "pedra" && x==2 {
             println!("The machine choose {}, draw", joken);
-        } else if poke == "paper" && x==3 {
+        } else if poke == "paper" || poke == "pedra" && x==3 {
             println!("The machine choose {}, you lost", joken);
         }
 
