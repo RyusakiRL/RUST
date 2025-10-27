@@ -1,0 +1,11 @@
+C:\Users\Caio\hello_rust\rust-programations\easy-programations\easy_02\target\debug\deps\powerfmt-804ca3930d905be8.d: C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Caio\hello_rust\rust-programations\easy-programations\easy_02\target\debug\deps\libpowerfmt-804ca3930d905be8.rlib: C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Caio\hello_rust\rust-programations\easy-programations\easy_02\target\debug\deps\libpowerfmt-804ca3930d905be8.rmeta: C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs:
