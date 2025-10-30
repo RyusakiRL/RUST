@@ -1,0 +1,11 @@
+C:\Users\Caio\hello_rust\rust-programations\easy-programations\easy_08\target\debug\deps\num_bigint-3db68aca9691906d.d: C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\lib.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\macros.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigint.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\biguint.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\algorithms.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\monty.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigrand.rs
+
+C:\Users\Caio\hello_rust\rust-programations\easy-programations\easy_08\target\debug\deps\libnum_bigint-3db68aca9691906d.rmeta: C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\lib.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\macros.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigint.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\biguint.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\algorithms.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\monty.rs C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigrand.rs
+
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\lib.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\macros.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigint.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\biguint.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\algorithms.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\monty.rs:
+C:\Users\Caio\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-bigint-0.2.6\src\bigrand.rs:

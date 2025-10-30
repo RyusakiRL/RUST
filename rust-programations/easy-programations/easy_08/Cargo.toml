@@ -1,0 +1,8 @@
+[package]
+name = "easy_08"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num-primes = "0.3.0"
+num-bigint = "0.4.3"
